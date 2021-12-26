@@ -4,14 +4,14 @@
 
 ## >  Usage
 
-```
+```python
 python3 Tencent_rce.py -h
 ```
  ![image](img/01.png)
 
 ## >  Scanner
 
-```
+```python
 python3 Tencent_rce.py -s
 ```
  ![image](img/02.png)
@@ -23,5 +23,6 @@ python3 Tencent_rce.py -i ins-ayx59f43 -r ap-beijing -c "touch /tmp/12.txt"
 ```
 
  ![image](img/03.png)
+ 
  
  ![image](img/04.png)
