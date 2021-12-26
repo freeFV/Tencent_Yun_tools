@@ -1,0 +1,7 @@
+json
+configparser
+argparse
+colorama
+pandas
+base64
+tencentcloud-sdk-python
