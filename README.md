@@ -19,7 +19,7 @@ python3 Tencent_rce.py -s
 ## >  Runcommand
 
 ```python
-python3 Tencent_rce.py -i ins-ayx59f43 -r ap-beijing -c "touch /tmp/12.txt"
+python3 Tencent_rce.py -i ins-xxxxx -r ap-beijing -c "touch /tmp/12.txt"
 ```
 
  ![image](img/03.png)
