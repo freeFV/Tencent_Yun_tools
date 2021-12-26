@@ -16,6 +16,8 @@ python3 Tencent_rce.py -s
 ```
  ![image](img/02.png)
 
+* 生成CSV文件
+
 ## >  Runcommand
 
 ```python
